@@ -1,0 +1,24 @@
+{
+  "name": "tests-in-nodejs",
+  "version": "1.0.0",
+  "description": "Automated testing in nodejs without framework",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npx nodemon index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaiuzanji/tests-in-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaiuzanji/tests-in-nodejs/issues"
+  },
+  "homepage": "https://github.com/Kaiuzanji/tests-in-nodejs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
